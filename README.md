@@ -84,7 +84,7 @@ def swap_bookends(items):
     return last, *middle, first
 ```
 # HISTORY
-- August 20, 2026: README File created
-- August 20, 2026: Added content for Introductory and Part A of PA1
-- August 21 2026: Added content for Part B and Part C of PA1
-- August 21 2026: Jupyter Notebook File (.ipynb) uploaded
+- August 20, 2026: README File created.
+- August 20, 2026: Added content for Introductory and Part A of PA1.
+- August 21 2026: Added content for Part B and Part C of PA1.
+- August 21 2026: Jupyter Notebook File (.ipynb) uploaded.
